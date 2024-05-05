@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdibang"]=self["webpackChunkdibang"]||[]).push([[713],{7713:function(n,t,e){e.r(t),e.d(t,{default:function(){return l}});var a=function(){var n=this,t=n._self._c;return t("div",[t("transition",{attrs:{"enter-active-class":"animate__animated animate__bounceInLeft"}},[t("router-view")],1)],1)},r=[],i={data(){return{}}},u=i,s=e(1656),c=(0,s.A)(u,a,r,!1,null,"1564d993",null),l=c.exports}}]);
+//# sourceMappingURL=713.3c236863.js.map
